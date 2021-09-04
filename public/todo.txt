@@ -1,0 +1,7 @@
+TODO
+
+[ ]1: Contact me form werkend maken d.m.v. PHP. 
+[ x ] 2: Informatie up-to date maken.
+[ ] 3: Veranderingen pushen naar Github.
+[ ] 4: Regelen dat Sander nieuwe versie upload op server.
+
