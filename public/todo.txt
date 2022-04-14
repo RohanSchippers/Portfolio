@@ -1,9 +1,0 @@
-TODO
-
-[ ]     1: Contact me form werkend maken d.m.v. PHP. 
-[ x ]   2: Informatie up-to date maken.
-[ ]     3: Regelen dat Sander nieuwe versie upload op server.
-[ ]     4: Marielle en Sander feedback, evt hulp met JS.PHP
-[ ]     5: Bij about me: zorgen dat er button is om die door te linken naar online CV page.
-
-
